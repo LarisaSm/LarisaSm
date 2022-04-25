@@ -6,5 +6,7 @@
 * :school: Освоить новые фреймворки
 * :pencil: Хочу писать чистый читабельный код
 
+#### Контакты
+ТГ - [@SmirnovaLarisa](https://t.me/SmirnovaLarisa)
 
 
